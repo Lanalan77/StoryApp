@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Submission1Intermediate</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Buat dan Unggah Cerita Kalian!</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upload story?</string>
+    <string name="name">Nama</string>
+    <string name="copyright">© 2023 Xlanz</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">Email</string>
+    <string name="login_page">Login Page</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="hint_nama">Nama</string>
+    <string name="register_page">Register Page</string>
+    <string name="item_desc">it\'s no monster, it\'s GOD!!!</string>
+    <string name="item_name">Kaiba</string>
+
+    <string name="password_error">Password must be at least 8 characters</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="add">Add</string>
+    <string name="desc_add">Story Description</string>
+    <string name="retry">Retry</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Maps</string>
+    <string name="previewImage">Image Preview</string>
+
+
+</resources>
